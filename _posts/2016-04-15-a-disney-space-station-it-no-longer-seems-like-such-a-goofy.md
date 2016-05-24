@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-24T07:50:46.025Z'
+datePublished: '2016-05-24T07:51:05.722Z'
 sourcePath: _posts/2016-04-15-a-disney-space-station-it-no-longer-seems-like-such-a-goofy.md
 inFeed: true
 isBasedOnUrl: 'http://arstechnica.com/science/2016/04/a-disney-space-station-it-no-longer-seems-like-such-a-goofy-idea/'
@@ -27,7 +27,7 @@ author:
   - name: Eric Berger
     url: 'http://arstechnica.com/author/ericberger/'
     avatar: {}
-dateModified: '2016-05-24T07:50:45.597Z'
+dateModified: '2016-05-24T07:51:05.253Z'
 title: A Disney space station? It no longer seems like such a goofy idea
 app_links: []
 publisher:
